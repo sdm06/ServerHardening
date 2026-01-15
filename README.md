@@ -69,7 +69,7 @@ This script performs a read-only scan of the system to ensure hardening rules ar
 ### 1. Download the Toolkit
 Clone this repository to your server:
 ```bash
-git clone [https://github.com/sdm06/ServerHardening.git](https://github.com/sdm06/ServerHardening.git)
+git clone https://github.com/sdm06/ServerHardening.git
 cd ServerHardening
 
 ```
